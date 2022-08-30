@@ -1,4 +1,4 @@
 HackTheBox WriteUps
 
 
-Paper
+[Paper](./Paper.html)
