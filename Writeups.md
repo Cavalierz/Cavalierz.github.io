@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "GitHub Projects"
+title: "HackTheBox Writeups"
 css: ["projects.css"]
 js: ["https://cdnjs.cloudflare.com/ajax/libs/geopattern/1.2.3/js/geopattern.min.js", "projects.js"]
 ---
-{% include projects.html %}
+{% include writeups.html %}
